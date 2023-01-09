@@ -1,4 +1,4 @@
-# Anonymous Redirect / Referrer
+# AnonymousRedirect.LINKVERTISE / Referrer
 
 Very simple HTML page that is used for anonymous redirect.
 
@@ -8,9 +8,9 @@ Please note, that Referrer-Policy [is not supported](caniuse.com/#feat=referrer-
 ## Usage
 
 ```
-https://adguardteam.github.io/AnonymousRedirect/redirect.html?url=[PUT URL HERE]
+https://adguardteam.github.io/AnonymousRedirect/redirect.html?url=[https://linkvertise.com/premium-redirect/78497079]
 ```
 
 ## Examples
 
-https://adguardteam.github.io/AnonymousRedirect/redirect.html?url=https://whatsmyreferer.com/
+https://linkvertise.com/448734/verifymezacom/AnonymousRedirect/redirect.html?url=https://linkvertise.com/448734/minecraft-hosting/1
