@@ -8,7 +8,7 @@ Please note, that Referrer-Policy [is not supported](caniuse.com/#feat=referrer-
 ## Usage
 
 ```
-https://adguardteam.github.io/AnonymousRedirect/redirect.html?url=[PUT URL HERE]
+https://adguardteam.github.io/AnonymousRedirect/redirect.html?url=[https://linkvertise.com/premium-redirect/37208370]
 ```
 
 ## Examples
